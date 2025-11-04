@@ -45,7 +45,7 @@ Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="screenshots/1.png" width="85%" />
+      <img src="screenshots/1.png" width="45%" />
       <br><sub>Halaman <b>Login</b></sub>
     </td>
   </tr>
@@ -78,7 +78,7 @@ Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
     <td align="center">
       <img src="screenshots/5.png" width="45%" />
       <img src="screenshots/6.png" width="45%" />
-      <br><sub>Halaman <b>Pengaturan</b> — Tema <b>LBianco</b> & <b>Nero</b></sub>
+      <br><sub>Halaman <b>Pengaturan</b> — Tema <b>Bianco (Light)</b> & <b>Nero (Dark)</b></sub>
     </td>
   </tr>
 
