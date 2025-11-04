@@ -66,11 +66,6 @@ Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
 </p>
 
 <p align="center">
-  <img src="screenshots/8.png" width="45%" />
-  <img src="screenshots/6.png" width="45%" />
-</p>
-
-<p align="center">
   <img src="screenshots/12.png" width="45%" />
 </p>
 
