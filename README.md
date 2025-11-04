@@ -1,16 +1,41 @@
-# ruckus_ui
+# Ruckus UI
 
-A new Flutter project.
+Proyek ini merupakan **aplikasi demo antarmuka pengguna (UI)** berbasis Flutter. Aplikasi ini dibuat sebagai bagian dari tugas pemrograman antarmuka untuk menampilkan rancangan halaman login dan dashboard dengan tema gelap dan terang yang responsif.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- **Halaman Login**  
+  Pengguna dapat memasukkan email/username dan password untuk masuk ke dalam aplikasi.
 
-A few resources to get you started if this is your first Flutter project:
+- **Dashboard**  
+  Menampilkan elemen kartu dan banner dengan efek bayangan (shadow) yang elegan.  
+  Mendukung mode terang dan gelap secara otomatis mengikuti tema sistem.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Desain Responsif**  
+  Elemen UI seperti kartu dan banner memiliki batas lebar tertentu agar tampilan tetap proporsional pada layar desktop.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Transisi Halaman Halus**  
+  Perpindahan antar halaman menggunakan animasi slide kiri dan kanan untuk pengalaman pengguna yang lebih dinamis.
+
+## Teknologi
+
+- **Flutter** — Framework utama untuk pengembangan UI.  
+- **Dart** — Bahasa pemrograman yang digunakan dalam proyek ini.  
+- **Material Design Components** — Untuk konsistensi gaya dan tema aplikasi.  
+
+## Cara Menjalankan
+
+1. Pastikan Flutter sudah terinstal di perangkat Anda.  
+2. Clone repositori ini:
+   git clone https://github.com/rinzler69-wastaken/ruckus_ui.git
+3. Masuk ke folder proyek:
+   cd ruckus_ui
+4. Jalankan perintah berikut untuk memulai aplikasi:
+   flutter run
+
+## Catatan
+
+    Proyek ini hanya bersifat demo UI, belum terhubung dengan sistem autentikasi atau database apa pun.
+    Struktur dan tampilan dibuat untuk menonjolkan penerapan prinsip layout, shadow, responsivitas, dan tema dinamis pada Flutter.
+
+Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
