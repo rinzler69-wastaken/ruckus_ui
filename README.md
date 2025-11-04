@@ -43,32 +43,45 @@ Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
 ## Screenshots
 <p align="center">
   <img src="screenshots/1.png" width="45%" />
+  Halaman Login
 </p>
+
 
 <p align="center">
   <img src="screenshots/2.png" width="45%" />
   <img src="screenshots/8.png" width="45%" />
+  Halaman 'Dashboard'
 </p>
+
+<p align="center">
+  <img src="screenshots/3.png" width="45%" />
+  <img src="screenshots/9.png" width="45%" />
+  Halaman 'Data'
+</p>
+
 
 <p align="center">
   <img src="screenshots/4.png" width="45%" />
   <img src="screenshots/10.png" width="45%" />
+  Halaman 'Profil'
 </p>
+
 
 <p align="center">
   <img src="screenshots/5.png" width="45%" />
   <img src="screenshots/6.png" width="45%" />
+  Halaman 'Pengaturan', Pilihan LBianco (Light) dan Dark (Nero) theme
 </p>
 
 <p align="center">
   <img src="screenshots/7.png" width="45%" />
   <img src="screenshots/11.png" width="45%" />
+  Fitur System Theme mengikuti tema Light/Dark pada perangkat
 </p>
 
 <p align="center">
   <img src="screenshots/12.png" width="45%" />
+  <img src="screenshots/13.png" width="45%" />
+  Modal untuk 'About' dan Konfirmasi Logout
 </p>
 
-<p align="center">
-  <img src="screenshots/13.png" width="45%" />
-</p>
