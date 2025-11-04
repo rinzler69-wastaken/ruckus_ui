@@ -40,48 +40,61 @@ Proyek ini merupakan **aplikasi demo antarmuka pengguna (UI)** berbasis Flutter.
 
 Dibuat dengan ☕ dan sedikit chaos oleh Art Fazil.
 
-## Screenshots
-<p align="center">
-  <img src="screenshots/1.png" width="45%" />
-  <p>Halaman Login</p>
-</p>
+## 🖼️ Gallery
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/1.png" width="85%" />
+      <br><sub>Halaman <b>Login</b></sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="screenshots/2.png" width="45%" />
-  <img src="screenshots/8.png" width="45%" />
-  <p>Halaman 'Dashboard'</p>
-</p>
+  <tr>
+    <td align="center">
+      <img src="screenshots/2.png" width="45%" />
+      <img src="screenshots/8.png" width="45%" />
+      <br><sub>Halaman <b>Dashboard</b></sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="screenshots/3.png" width="45%" />
-  <img src="screenshots/9.png" width="45%" />
-  <p>Halaman 'Data'</p>
-</p>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3.png" width="45%" />
+      <img src="screenshots/9.png" width="45%" />
+      <br><sub>Halaman <b>Data</b></sub>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="screenshots/4.png" width="45%" />
+      <img src="screenshots/10.png" width="45%" />
+      <br><sub>Halaman <b>Profil</b></sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="screenshots/4.png" width="45%" />
-  <img src="screenshots/10.png" width="45%" />
-  <p>Halaman 'Profil'</p>
-</p>
+  <tr>
+    <td align="center">
+      <img src="screenshots/5.png" width="45%" />
+      <img src="screenshots/6.png" width="45%" />
+      <br><sub>Halaman <b>Pengaturan</b> — Tema <b>LBianco</b> & <b>Nero</b></sub>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="screenshots/7.png" width="45%" />
+      <img src="screenshots/11.png" width="45%" />
+      <br><sub><b>System Theme</b> mengikuti tema perangkat (Light/Dark)</sub>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="screenshots/5.png" width="45%" />
-  <img src="screenshots/6.png" width="45%" />
-  <p>Halaman 'Pengaturan', Pilihan LBianco (Light) dan Dark (Nero) theme</p>
-</p>
-
-<p align="center">
-  <img src="screenshots/7.png" width="45%" />
-  <img src="screenshots/11.png" width="45%" />
-  <p>Fitur System Theme mengikuti tema Light/Dark pada perangkat</p>
-</p>
-
-<p align="center">
-  <img src="screenshots/12.png" width="45%" />
-  <img src="screenshots/13.png" width="45%" />
-  <p>Modal untuk 'About' dan Konfirmasi Logout</p>
-</p>
-
+  <tr>
+    <td align="center">
+      <img src="screenshots/12.png" width="45%" />
+      <img src="screenshots/13.png" width="45%" />
+      <br><sub>Modal <b>About</b> & <b>Konfirmasi Logout</b></sub>
+    </td>
+  </tr>
+</table>
